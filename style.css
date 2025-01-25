@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-page{
+    margin-left: 8rem;
+}
+.navbar{
+    margin-top: 100px;
+    display: flex;
+}
+.About{
+    margin-left: 350px;
+    gap: 20px;
+    display: flex;
+}
+.photo1{
+    display: flex;
+}
+.size{
+    font-size: 37px;
+    width: 300px;
+}
+.image1{
+    margin-top: -120px;
+    margin-left: 26rem;
+}
+button{
+    margin-top: 70px;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+}
+.mar1{
+    margin-top: 100px;
+}
+.para1{
+    margin-top: 30px;
+}
+.second{
+    
+    text-align: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+.third{
+    border: 2px solid green;
+    display: flex;
+}
+.box1{
+    height: 300px;
+    border: 2px solid red;
+
+}
